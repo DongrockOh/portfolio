@@ -1,6 +1,6 @@
 "use strict";
 
-// Make navbar transparent When it is on the top
+// 투명 Navbar를 scroll시 class 추가 되면서 배경색을 입힘.
 const navbar = document.querySelector("#navbar");
 const navbarHeight = navbar.getBoundingClientRect().height;
 
